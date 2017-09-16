@@ -1,0 +1,2 @@
+1. Voyager
+    * Use Translate Laravel System (JSON)

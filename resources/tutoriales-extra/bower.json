@@ -1,0 +1,23 @@
+{
+  "name": "Curso Laravel Plupload",
+  "description": "",
+  "main": "public/index.php",
+  "authors": [
+    "unodepiera <israel965@yahoo.es>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/components/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "eonasdan-bootstrap-datetimepicker": "^4.17.43",
+    "plupload": "^2.2.1",
+    "jquery-ui": "jqueryui#^1.12.1"
+  }
+}
